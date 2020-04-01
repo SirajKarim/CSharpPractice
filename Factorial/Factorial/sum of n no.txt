@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: Sum of n num, Configuration: Debug Any CPU ------
+1>  Sum of n num -> c:\users\muhammad siraj\documents\visual studio 2012\Projects\Sum of n num\Sum of n num\bin\Debug\Sum of n num.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
