@@ -1,0 +1,9 @@
+C:\Users\Muhammad Siraj\documents\visual studio 2012\Projects\Home and rental allowance\bin\Debug\Home and rental allowance.exe.config
+C:\Users\Muhammad Siraj\documents\visual studio 2012\Projects\Home and rental allowance\bin\Debug\Home and rental allowance.exe
+C:\Users\Muhammad Siraj\documents\visual studio 2012\Projects\Home and rental allowance\bin\Debug\Home and rental allowance.pdb
+C:\Users\Muhammad Siraj\documents\visual studio 2012\Projects\Home and rental allowance\obj\Debug\Rental and Dining Allownce.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\documents\visual studio 2012\Projects\Home and rental allowance\obj\Debug\Home_and_rental_allowance.Allownce.resources
+C:\Users\Muhammad Siraj\documents\visual studio 2012\Projects\Home and rental allowance\obj\Debug\Home_and_rental_allowance.Properties.Resources.resources
+C:\Users\Muhammad Siraj\documents\visual studio 2012\Projects\Home and rental allowance\obj\Debug\Rental and Dining Allownce.csproj.GenerateResource.Cache
+C:\Users\Muhammad Siraj\documents\visual studio 2012\Projects\Home and rental allowance\obj\Debug\Home and rental allowance.exe
+C:\Users\Muhammad Siraj\documents\visual studio 2012\Projects\Home and rental allowance\obj\Debug\Home and rental allowance.pdb
