@@ -1,0 +1,5 @@
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Lucky number\Lucky number\bin\Debug\Lucky number.exe.config
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Lucky number\Lucky number\bin\Debug\Lucky number.exe
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Lucky number\Lucky number\bin\Debug\Lucky number.pdb
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Lucky number\Lucky number\obj\Debug\Lucky number.exe
+c:\users\muhammad siraj\documents\visual studio 2012\Projects\Lucky number\Lucky number\obj\Debug\Lucky number.pdb
